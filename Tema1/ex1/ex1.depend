@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1668449056 source:e:\teme oop\tema1\tema1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"a.h"
+
+1668449002 e:\teme oop\tema1\tema1\a.h
+
