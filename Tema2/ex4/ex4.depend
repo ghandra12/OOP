@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1669069071 source:e:\teme oop\tema2\ex4\main.cpp
+	<iostream>
+	<chrono>
+	<string>
+	<sstream>
+
