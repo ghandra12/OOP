@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673210441 source:c:\users\andra\desktop\teme oop\tema8\ex6\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
